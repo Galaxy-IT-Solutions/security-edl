@@ -5,4 +5,4 @@ Useful for Security and Decryption policies
 
 
 
-#no-decrypt-jj - my own domain list for no-decryption verified as hsts or cert pinning
+## no-decrypt-jj ## - my own domain list for no-decryption verified as hsts or cert pinning
