@@ -5,5 +5,8 @@ Useful for Security and Decryption policies
 
 
 
-### no-decrypt-jj ### 
+### no_decrypt_jj ### 
 My own domain list for no-decryption verified as hsts or cert pinning
+
+### microsoft_domains ##
+List of Microsoft domains for no-decryption, these were found to not be included in Palo Alto's build in EDLs
