@@ -3,4 +3,4 @@ api.cdp.microsoft.com
 *.msappproxy.net
 *.data.microsoft.com
 *.azure.com
-*.core.windows.net
+*.windows.net
