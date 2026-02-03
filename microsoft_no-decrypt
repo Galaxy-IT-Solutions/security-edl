@@ -1,0 +1,6 @@
+api.cdp.microsoft.com
+*.microsoftmetrics.com
+*.msappproxy.net
+*.data.microsoft.com
+*.azure.com
+*.core.windows.net
