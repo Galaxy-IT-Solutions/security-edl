@@ -1,4 +1,6 @@
 api.cdp.microsoft.com
+adl.windows.com
+remoteassistance.support.services.microsoft.com
 *.microsoftmetrics.com
 *.msappproxy.net
 *.data.microsoft.com
